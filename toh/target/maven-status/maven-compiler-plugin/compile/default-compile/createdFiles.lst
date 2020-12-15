@@ -1,0 +1,5 @@
+com\example\toh\Hero.class
+com\example\toh\HeroController.class
+com\example\toh\IdGenerate.class
+com\example\toh\TohApplication.class
+com\example\toh\HeroRepository.class
